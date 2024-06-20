@@ -69,6 +69,3 @@ Happy Tracking! 🚀
 
 Feel free to reach out if you have any questions or need further assistance.
 
----
-
-This version includes some emojis, decorative banners, and a more appealing layout to enhance the visual appeal of the README file. You can replace the placeholder images with actual images related to your project for a more personalized touch.
