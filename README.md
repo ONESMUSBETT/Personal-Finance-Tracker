@@ -1,5 +1,6 @@
 
 # 🌟 Personal Finance Tracker 🌟
+![Python 3 12 6_20_2024 3_38_06 PM](https://github.com/ONESMUSBETT/Personal-Finance-Tracker/assets/157495445/f11f017e-6f20-4159-aac9-be7667fe57fe)
 
 Welcome to the **Personal Finance Tracker**, your go-to tool for managing and visualizing your personal finances effortlessly! This application helps you keep track of your income, expenses, and overall financial health with ease.
 
